@@ -1,4 +1,4 @@
-# material
+# Material
 
 This repository contains the colab notebooks which are used in the DLinNLP Summer School 2023 at RANLP.
 
